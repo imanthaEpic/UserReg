@@ -1,0 +1,5 @@
+com\mycompany\userreg\resources\JakartaEE10Resource.class
+Servlet\Register.class
+Servlet\RegisterDao.class
+Servlet\Member.class
+com\mycompany\userreg\JakartaRestConfiguration.class
